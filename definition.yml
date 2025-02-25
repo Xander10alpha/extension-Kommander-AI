@@ -1,5 +1,6 @@
 name: Kommander
 display-name: "Kommander-KI"
+type: plugin
 author: Xander10alpha
 version: 1.0.0
 dependencies: 
